@@ -61,11 +61,7 @@ These queries Show how to combine multiple datasets and get actionable insights 
 - Some columns in the CSV files are stored as text and must be cast to numeric types before calculations.
 - Zero or missing values are handled using safe division (`NULLIF`) to avoid divide-by-zero errors.
 
----
 
-## License
-
-This project is open and free to use. Feel free to adapt or extend the queries for your learning or data projects.
 
 
 
