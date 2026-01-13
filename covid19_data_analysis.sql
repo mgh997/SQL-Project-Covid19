@@ -1,5 +1,6 @@
 *.sql linguist-language=SQL
 *.sql linguist-detectable=true
+*.csv linguist-detectable=false
 
 Select *
 From PortfolioProject..CovidDeaths
