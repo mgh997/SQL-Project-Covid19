@@ -12,7 +12,7 @@ There are:
 
 The queries demonstrate how to extract meaningful insights from pandemic data using SQL.
 
-## What You Can Learn
+## Why This Project Matters
 
 This project shows how to:
 
@@ -24,7 +24,7 @@ This project shows how to:
 - Convert text to numbers and avoid divide-by-zero errors
 
 
-## Prerequisites
+## Setup Requirements
 
 To run the SQL script:
 
@@ -43,7 +43,7 @@ To run the SQL script:
 
 ---
 
-## Query Highlights
+## Highlights from This Query
 
 The script includes analyses such as:
 
