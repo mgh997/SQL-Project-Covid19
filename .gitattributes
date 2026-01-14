@@ -1,0 +1,4 @@
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+data/** linguist-detectable=false
+*.csv linguist-detectable=false
